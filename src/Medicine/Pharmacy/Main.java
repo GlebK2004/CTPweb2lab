@@ -45,5 +45,8 @@ public class Main
         System.out.println("\nЗаказы:");
         System.out.println(order1);
         System.out.println(order2);
+
+        System.out.println("Hello, World");
+        System.out.println("Hello, World2");
     }
 }
