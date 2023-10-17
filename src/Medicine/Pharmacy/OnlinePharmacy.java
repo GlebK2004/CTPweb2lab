@@ -9,7 +9,7 @@ import java.util.ArrayList;
         public OnlinePharmacy(String name, String address) {
             super(name, address);
             orders = new ArrayList<>();
-            orders.
+            orders.я
         }
 
         @Override
